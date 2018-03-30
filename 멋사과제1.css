@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Berkshire+Swash|Poiret+One');
+		.container {
+			width: 960px;
+			margin:0 auto;
+			
+			}	
+		nav{
+			width:100%;
+			 height:70px;
+			 color: black;
+		}
+		.introduce{
+			 	text-align:left;
+			 	font-size:40px;
+			 	margin-right:600px;
+			}
+
+		.link{
+				text-align:right;
+				font-size:20px;
+		}	
+
+			
+		header{
+
+			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+
+				padding-top:100px;
+		       width:100%;
+			 	text-align:center;
+			    height:600px;
+			 	background-image: url(https://img-pholar.pstatic.net/20151211_211/1449764790991894lA_JPEG/p?type=w1080_jpg);
+			 	background-size:cover;
+			 	
+			}
+		h2{
+			font-family: 'Berkshire Swash', cursive;
+			font-size:60px;
+		}
+		h3{
+			text-align:center;
+			font-size:18px;
+		}
+		h4{
+			text-align:center;
+			font-size:50px;
+		}
+		section{
+			background: #FFCC00;
+			width: 100%;
+			padding: 10px 10px 10px 10px;
+		
+
+			
+
+		}
+		.grid{
+			font-weight: bold;
+			display: grid;
+			grid-template-columns: 320px 320px 320px;
+			grid-template-rows: 320px 320px;
+		}
+		h5{
+				text-align:center;
+				font-size:15px
+			}
+		.a{
+			width: 310px;
+			height: 310px;
+			margin:150px 0 auto;
+
+		}
+
+		footer{
+		       width:100;
+		       padding-top:10px;
+		       padding-bottom:10px;
+			 	text-align:center;
+			 	background: black;
+			 	color:white;
+			 }
